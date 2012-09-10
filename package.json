@@ -1,0 +1,14 @@
+{
+  "name": "node-human-date",
+  "description": "A node.js package to format a date in Twitter's human readable format.",
+  "maintainers": "James Laughlin <james@laughlinjames.com>",
+  "homepage": "https://github.com/laughlinjames/node-human-date",
+  "author": "James Laughlin",
+  "version": "0.0.1",
+  "main": "./lib/node-human-date",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
