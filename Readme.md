@@ -7,11 +7,6 @@ A node.js package for formatting a date in Twitter's human readable style.
 15s, 6m, 18h, 4d, 7 Sep
 
 
-## Usage
-
-  $ parseDate = 'Sun Sep 09 2012 22:43:08 GMT-0500 (CDT)'
-  $ var humanDate = human.formatDate( parseDate );
-
 ## License
 
 (c) 2012 James Laughlin  [james@laughlinjames.com][laughlinjames], MIT license.
