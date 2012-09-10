@@ -9,8 +9,8 @@ A node.js package for formatting a date in Twitter's human readable style.
 
 ## Usage
 
-$ parseDate = 'Sun Sep 09 2012 22:43:08 GMT-0500 (CDT)'
-$ var humanDate = human.formatDate( parseDate );
+  $ parseDate = 'Sun Sep 09 2012 22:43:08 GMT-0500 (CDT)'
+  $ var humanDate = human.formatDate( parseDate );
 
 ## License
 
